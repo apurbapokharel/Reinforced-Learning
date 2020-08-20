@@ -1,0 +1,12 @@
+#Ingore private files
+/nonGit
+/maze
+/tictacktoe
+# Ignore all text files
+*.txt
+
+policy_1
+policy_-1
+observation.docx
+~$hmm.docx
+~WRL3025.tmp
