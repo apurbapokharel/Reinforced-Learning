@@ -1,7 +1,7 @@
 #Ingore private files
 /nonGit
 /maze
-/tictacktoe
+
 # Ignore all text files
 *.txt
 
